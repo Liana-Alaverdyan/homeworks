@@ -8,8 +8,6 @@ let newArr = arr.map(arr => {
 console.log(newArr);
 
 
-
-
 //2) Take an array of numbers and make them strings
 
 let arr = [2, 5, 100];
