@@ -41,7 +41,6 @@ console.log(newArray);
 
 
 
-
 //5) Make a filtered list of all the people who are old enough to see The Matrix (older than 18)
 let array = [
     { name: "Angelina Jolie", age: 80 },
